@@ -1,3 +1,3 @@
-# Scrape Data, Visualization, Caption from Statista.com
+# Scrape Table, Visualization, Natural Language Caption
 
 Implement settings.py to run
